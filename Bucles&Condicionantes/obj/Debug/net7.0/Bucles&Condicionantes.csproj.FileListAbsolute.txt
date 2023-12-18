@@ -1,0 +1,15 @@
+D:\programación\CursoYoutube\CursoYouTube\Bucles&Condicionantes\bin\Debug\net7.0\Bucles&Condicionantes.exe
+D:\programación\CursoYoutube\CursoYouTube\Bucles&Condicionantes\bin\Debug\net7.0\Bucles&Condicionantes.deps.json
+D:\programación\CursoYoutube\CursoYouTube\Bucles&Condicionantes\bin\Debug\net7.0\Bucles&Condicionantes.runtimeconfig.json
+D:\programación\CursoYoutube\CursoYouTube\Bucles&Condicionantes\bin\Debug\net7.0\Bucles&Condicionantes.dll
+D:\programación\CursoYoutube\CursoYouTube\Bucles&Condicionantes\bin\Debug\net7.0\Bucles&Condicionantes.pdb
+D:\programación\CursoYoutube\CursoYouTube\Bucles&Condicionantes\obj\Debug\net7.0\Bucles&Condicionantes.csproj.AssemblyReference.cache
+D:\programación\CursoYoutube\CursoYouTube\Bucles&Condicionantes\obj\Debug\net7.0\Bucles&Condicionantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\programación\CursoYoutube\CursoYouTube\Bucles&Condicionantes\obj\Debug\net7.0\Bucles&Condicionantes.AssemblyInfoInputs.cache
+D:\programación\CursoYoutube\CursoYouTube\Bucles&Condicionantes\obj\Debug\net7.0\Bucles&Condicionantes.AssemblyInfo.cs
+D:\programación\CursoYoutube\CursoYouTube\Bucles&Condicionantes\obj\Debug\net7.0\Bucles&Condicionantes.csproj.CoreCompileInputs.cache
+D:\programación\CursoYoutube\CursoYouTube\Bucles&Condicionantes\obj\Debug\net7.0\Bucles&Condicionantes.dll
+D:\programación\CursoYoutube\CursoYouTube\Bucles&Condicionantes\obj\Debug\net7.0\refint\Bucles&Condicionantes.dll
+D:\programación\CursoYoutube\CursoYouTube\Bucles&Condicionantes\obj\Debug\net7.0\Bucles&Condicionantes.pdb
+D:\programación\CursoYoutube\CursoYouTube\Bucles&Condicionantes\obj\Debug\net7.0\Bucles&Condicionantes.genruntimeconfig.cache
+D:\programación\CursoYoutube\CursoYouTube\Bucles&Condicionantes\obj\Debug\net7.0\ref\Bucles&Condicionantes.dll
