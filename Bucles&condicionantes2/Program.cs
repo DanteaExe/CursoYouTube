@@ -1,5 +1,4 @@
-﻿using System.Diagnostics;
-using static System.Console;
+﻿using static System.Console;
 
 WriteLine("Write a color: ");
 string? color = ReadLine();
