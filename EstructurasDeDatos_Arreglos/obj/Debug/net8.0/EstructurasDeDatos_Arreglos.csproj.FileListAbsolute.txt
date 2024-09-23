@@ -1,0 +1,15 @@
+C:\Users\x\Documents\GitHub\CursoYouTube\EstructurasDeDatos_Arreglos\bin\Debug\net8.0\EstructurasDeDatos_Arreglos.exe
+C:\Users\x\Documents\GitHub\CursoYouTube\EstructurasDeDatos_Arreglos\bin\Debug\net8.0\EstructurasDeDatos_Arreglos.deps.json
+C:\Users\x\Documents\GitHub\CursoYouTube\EstructurasDeDatos_Arreglos\bin\Debug\net8.0\EstructurasDeDatos_Arreglos.runtimeconfig.json
+C:\Users\x\Documents\GitHub\CursoYouTube\EstructurasDeDatos_Arreglos\bin\Debug\net8.0\EstructurasDeDatos_Arreglos.dll
+C:\Users\x\Documents\GitHub\CursoYouTube\EstructurasDeDatos_Arreglos\bin\Debug\net8.0\EstructurasDeDatos_Arreglos.pdb
+C:\Users\x\Documents\GitHub\CursoYouTube\EstructurasDeDatos_Arreglos\obj\Debug\net8.0\EstructurasDeDatos_Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\GitHub\CursoYouTube\EstructurasDeDatos_Arreglos\obj\Debug\net8.0\EstructurasDeDatos_Arreglos.AssemblyInfoInputs.cache
+C:\Users\x\Documents\GitHub\CursoYouTube\EstructurasDeDatos_Arreglos\obj\Debug\net8.0\EstructurasDeDatos_Arreglos.AssemblyInfo.cs
+C:\Users\x\Documents\GitHub\CursoYouTube\EstructurasDeDatos_Arreglos\obj\Debug\net8.0\EstructurasDeDatos_Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\GitHub\CursoYouTube\EstructurasDeDatos_Arreglos\obj\Debug\net8.0\EstructurasDeDatos_Arreglos.sourcelink.json
+C:\Users\x\Documents\GitHub\CursoYouTube\EstructurasDeDatos_Arreglos\obj\Debug\net8.0\EstructurasDeDatos_Arreglos.dll
+C:\Users\x\Documents\GitHub\CursoYouTube\EstructurasDeDatos_Arreglos\obj\Debug\net8.0\refint\EstructurasDeDatos_Arreglos.dll
+C:\Users\x\Documents\GitHub\CursoYouTube\EstructurasDeDatos_Arreglos\obj\Debug\net8.0\EstructurasDeDatos_Arreglos.pdb
+C:\Users\x\Documents\GitHub\CursoYouTube\EstructurasDeDatos_Arreglos\obj\Debug\net8.0\EstructurasDeDatos_Arreglos.genruntimeconfig.cache
+C:\Users\x\Documents\GitHub\CursoYouTube\EstructurasDeDatos_Arreglos\obj\Debug\net8.0\ref\EstructurasDeDatos_Arreglos.dll
