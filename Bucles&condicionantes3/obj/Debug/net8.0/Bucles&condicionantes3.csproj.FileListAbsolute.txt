@@ -1,0 +1,15 @@
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&condicionantes3\bin\Debug\net8.0\Bucles&condicionantes3.exe
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&condicionantes3\bin\Debug\net8.0\Bucles&condicionantes3.deps.json
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&condicionantes3\bin\Debug\net8.0\Bucles&condicionantes3.runtimeconfig.json
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&condicionantes3\bin\Debug\net8.0\Bucles&condicionantes3.dll
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&condicionantes3\bin\Debug\net8.0\Bucles&condicionantes3.pdb
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&condicionantes3\obj\Debug\net8.0\Bucles&condicionantes3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&condicionantes3\obj\Debug\net8.0\Bucles&condicionantes3.AssemblyInfoInputs.cache
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&condicionantes3\obj\Debug\net8.0\Bucles&condicionantes3.AssemblyInfo.cs
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&condicionantes3\obj\Debug\net8.0\Bucles&condicionantes3.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&condicionantes3\obj\Debug\net8.0\Bucles&condicionantes3.sourcelink.json
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&condicionantes3\obj\Debug\net8.0\Bucles&condicionantes3.dll
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&condicionantes3\obj\Debug\net8.0\refint\Bucles&condicionantes3.dll
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&condicionantes3\obj\Debug\net8.0\Bucles&condicionantes3.pdb
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&condicionantes3\obj\Debug\net8.0\Bucles&condicionantes3.genruntimeconfig.cache
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&condicionantes3\obj\Debug\net8.0\ref\Bucles&condicionantes3.dll
