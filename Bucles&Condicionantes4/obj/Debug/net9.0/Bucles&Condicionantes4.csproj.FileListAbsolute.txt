@@ -1,0 +1,15 @@
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&Condicionantes4\bin\Debug\net9.0\Bucles&Condicionantes4.exe
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&Condicionantes4\bin\Debug\net9.0\Bucles&Condicionantes4.deps.json
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&Condicionantes4\bin\Debug\net9.0\Bucles&Condicionantes4.runtimeconfig.json
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&Condicionantes4\bin\Debug\net9.0\Bucles&Condicionantes4.dll
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&Condicionantes4\bin\Debug\net9.0\Bucles&Condicionantes4.pdb
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&Condicionantes4\obj\Debug\net9.0\Bucles&Condicionantes4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&Condicionantes4\obj\Debug\net9.0\Bucles&Condicionantes4.AssemblyInfoInputs.cache
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&Condicionantes4\obj\Debug\net9.0\Bucles&Condicionantes4.AssemblyInfo.cs
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&Condicionantes4\obj\Debug\net9.0\Bucles&Condicionantes4.csproj.CoreCompileInputs.cache
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&Condicionantes4\obj\Debug\net9.0\Bucles&Condicionantes4.sourcelink.json
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&Condicionantes4\obj\Debug\net9.0\Bucles&Condicionantes4.dll
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&Condicionantes4\obj\Debug\net9.0\refint\Bucles&Condicionantes4.dll
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&Condicionantes4\obj\Debug\net9.0\Bucles&Condicionantes4.pdb
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&Condicionantes4\obj\Debug\net9.0\Bucles&Condicionantes4.genruntimeconfig.cache
+C:\Users\x\Documents\GitHub\CursoYouTube\Bucles&Condicionantes4\obj\Debug\net9.0\ref\Bucles&Condicionantes4.dll
